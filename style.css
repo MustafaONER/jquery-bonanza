@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  margin: 0px auto;
+  width: 1000px;
+}
+
+button,
+p,
+hr {
+  margin-top: 20px;
+}
+
+footer,
+img {
+  height: 50px;
+}
+
+.selected {
+  color: red;
+}
+.highlight {
+  background: yellow;
+}
+
+input {
+  display: block;
+  margin: auto;
+}
+
+#img,
+#pic
+footer {
+  margin: auto;
+
+  height: 50px;
+}
